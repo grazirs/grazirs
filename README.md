@@ -24,7 +24,7 @@ I just started with the OSS contributions, but hopefully one day there will be t
     - [#808](https://github.com/Codeminer42/cm42-central/pull/808)
   - [Ruby on Rails] CASA: 
     - [#3791](https://github.com/rubyforgood/casa/pull/3791)
-  - [Ruby on Rails] Ruby for good Website:
+  - [Javascript, Sass, HTML] Ruby for good Website:
     - [#55](https://github.com/rubyforgood/rubyforgood.org/pull/55)
     - [#53](https://github.com/rubyforgood/rubyforgood.org/pull/53)
   - [Javascript] Jest:
