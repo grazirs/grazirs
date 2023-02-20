@@ -15,11 +15,13 @@
 - I have a lot of hobbies, but swimming, learning languages and drawing are my favorites;
 
 
-## Contributions to Open Source Software 🗺️🖥️
+## Contributions to Open Source Software 🖥️
 I just started with the OSS contributions, but hopefully one day there will be too many to fit on a list.
 
   - [React] Grommet:
     - [#6462](https://github.com/grommet/grommet/pull/6462)
+  - [React] Cm42-central:
+    - [#808](https://github.com/Codeminer42/cm42-central/pull/808)
   - [Ruby on Rails] CASA: 
     - [#3791](https://github.com/rubyforgood/casa/pull/3791)
   - [Ruby on Rails] Ruby for good Website:
@@ -27,6 +29,14 @@ I just started with the OSS contributions, but hopefully one day there will be t
     - [#53](https://github.com/rubyforgood/rubyforgood.org/pull/53)
   - [Javascript] Jest:
     - [#13362](https://github.com/facebook/jest/pull/13362/) WIP
+
+## Freelance Projects 🖥️
+  - [Angular/Sass] Easypol - Responsive Landing Pages:
+     - [B2B](https://easypol.io/business)
+     - [B2C](https://easypol.io/smart)
+     - [B2C](https://easypol.io/premium)
+  - [HTML/CSS/Vanilla Javascript] Avis Besana - Responsive website:
+     - [Website Avis Besana](https://www.avisbesana.it/)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=grazirs&show_icons=true&theme=tokyonight&count_private=true" alt="Graziele Ribeiro Santos github stats" /> 
