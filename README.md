@@ -7,9 +7,9 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-- Graduated in chemical engineer, but I made a career change to software engineering ✨
+- Graduated in chemical engineering, but I made a career change to software engineering ✨
 - Portuguese is my native language, but I can speak English, French and Italian as well;
-- Working daily with Javascript, Ruby on Rails, React and Angular; 
+- Working daily with Javascript; 
 - Skilled in automated tests and used with the following test libraries:  Jest, React Testing Library, RSpec and Cypress;
 - I love when assigned to frontend tasks, including A11y;
 - I have a lot of hobbies, but swimming, learning languages and drawing are my favorites;
